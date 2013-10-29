@@ -76,7 +76,7 @@ body{
 	border-right-color: #667c90;
 }
 #navigation a:hover {
-	background-image:url(../images/bg_topnav_over.png;
+	background-image:url(../images/bg_topnav_over.png);
 }
 #main {
 	background-color: #FFF;
